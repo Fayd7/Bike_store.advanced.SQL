@@ -73,4 +73,7 @@ Folder Structure
 │
 ├── schema/       https://drive.google.com/file/d/1XPLhR1zMvci-RpM1DgPletxC8OjxkwfC/view?usp=drive_link    
 ├──queries/       https://drive.google.com/file/d/1Z7-bA3uqV_2eYjC25RSKhcHqADs1g3We/view?usp=drive_link
- 
+
+Author-
+Mohammed Fayd
+SQL Developer | Data Analytics | Business Intelligence
